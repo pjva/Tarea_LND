@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0" >
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi canal RSS</title>
 
-    <link>https://pjva.github.io/Tarea_LND/index.html</link>
-    <description>Noticias del Clima</description>
+    <atom:link href="https://pjva.github.io/Tarea_LND/Tema.rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://pjva.github.io/Tarea_LND/Tema.rss.xml</link>
     <language>es-ES</language>
     <item>
       <title>Noticias del Clima de Santa Cruz de Tenerife</title>
-      <link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
+      <guid>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</guid>
       <description>Noticias sobre el clima</description>
     </item>
 
-    
   </channel>
 </rss>
