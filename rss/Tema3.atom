@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
     <title type="text">Canal del Clima </title>
-    <id>https://pjva.github.io/Tarea_LND/index.htm</id>
+    <id>https://pjva.github.io/Tarea_LND/index.html</id>
     
     <link rel="self" href="https://pjva.github.io/Tarea_LND/index.html/rss/Tema3" />
     <link rel="alternate" href="https://pjva.github.io/Tarea_LND/index.html" />
@@ -27,4 +27,3 @@
 
     </entry>
 </feed>
-
