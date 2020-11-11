@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"> 
   <channel>
     <title>Mi canal RSS</title>
     <link>https://pjva.github.io/Tarea_LND/index.html</link>
+    <description>Canal para la tarea</description>
     <language>es-ES</language>
     <item>
       <title>Noticias del Clima de Santa Cruz de Tenerife</title>
@@ -12,3 +13,4 @@
 
   </channel>
 </rss>
+
