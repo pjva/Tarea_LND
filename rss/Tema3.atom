@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+<feed xmlns="http://www.w3.org/2005/Atom" >
     <title type="text">Canal del Clima </title>
     <id>https://pjva.github.io/Tarea_LND/index.html</id>
     
-    <link rel="self" href="https://pjva.github.io/Tarea_LND/index.html/rss/Tema3" />
-    <link rel="alternate" href="https://pjva.github.io/Tarea_LND/index.html" />
-    
+    <link rel="self" type="application/atom+xml" href="https://pjva.github.io/Tarea_LND/rss/Tema3.atom" />
+    <link rel="alternate" type="text/html" title="El Tiempo" href="https://pjva.github.io/Tarea_LND/index.html" />"
+    <updated>2020-11-05T23:20:00Z</updated>
     <author>
-      <summary> Noticias del Clima en Santa Cruz de Tenerife </summary>
+      
       <name>Pedro Villegas</name>
       <email>Pjva1982@gmail.com</email>
       <uri>https://pjva.github.io/Tarea_LND/index.html</uri>
     </author>
+
+    <id>https://pjva.github.io/Tarea_LND/index.html</id>
+    <logo>https://pjva.github.io/Tarea_LND/index.html/assets/img/Tiempo.jpg</logo>
+
     <entry>
 
       <title>El Tiempo en Santa Cruz de Tenerife</title>
-      <id>http://www.eltiempo24.es/</id>
+      <id>https://www.tiempo.es/</id>
       <link href="https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html" />
+      
       <updated>2020-11-05T23:20:00Z</updated>
+      <content type="xhtml" xml:lang="es">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="assets/img/Tiempo.jpg" alt="logo de www.eltiempo24.es" title="Tiempo en Santa CRuz de Tenerife" width="50px" height="20px" border="1px solid #ff0000" /> <b> El tiempo 24</b>; - Descubre qué tiempo tendremos en la población de Santa Cruz de Tenerife para los próximos días...<hr />
+        </div>
+      </content>
+    
 
       <author>
 
