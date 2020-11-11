@@ -2,7 +2,7 @@
 <rss version="2.0"> 
   <channel>
     <title>Mi canal RSS</title>
-    <link>https://pjva.github.io/Tarea_LND/index.html</link>
+    <link>https://pjva.github.io/Tarea_LND/rss/Tema.rss</link>
     <description>Canal para la tarea</description>
     <language>es-ES</language>
     <item>
