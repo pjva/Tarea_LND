@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tema 3 - Sindicación ATOM</title>
+    <subtitle>Ejemplo de creación de canal ATOM</subtitle>
+    <link rel="self" href="http://www.sitiolibre.com/Tarea3/rss/Tema3.atom" />
+    <link rel="alternate" href="http://www.sitiolibre.com/Tarea3/" />
+    <updated>2011-12-05T23:20:00Z</updated>
+    <author>
+      <name>José Luis Comesaña</name>
+      <email>jl@sitiolibre.com</email>
+      <uri>http://www.sitiolibre.com/</uri>
+    </author>
+    <id>http://www.sitiolibre.com/Tarea3/</id>
+    <logo>http://www.sitiolibre.com/Tarea3/imagenes/logo.png</logo>
+    <entry>
+      <title>Predicción meteorológica</title>
+      <id>http://www.eltiempo24.es/</id>
+      <link href="http://www.eltiempo24.es/Almensilla/Andalucia/Espana/ES0SE0010" />
+      <updated>2011-12-05T23:31:00Z</updated>
+      <content type="xhtml" xml:lang="es">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../imagenes/tiempo.png" alt="logo de www.eltiempo24.es" title="La predicción del tiempo para Almensilla" width="50px" height="20px" border="1px solid #ff0000" /> <b> El tiempo 24</b>; - Descubre qué tiempo tendremos en la población sevillana de Almensilla para los próximos días...<hr />
+        </div>
+      </content>
+    </entry>
+    <entry>
+      <title>Galería fotográfica</title>
+      <id>http://www.sitiolibre.com/</id>
+      <link href="http://www.sitiolibre.com/galeria.php" />
+      <updated>2011-12-05T23:30:00Z</updated>
+      <content type="xhtml" xml:lang="es">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="../imagenes/logo.png" alt="logo de www.sitiolibre.com" title="Galería de imágenes de sitiolibre" width="50px" height="20px" border="1px solid #ff0000" /> <b> Sitiolibre</b> - Galería de imágenes de la web personal de José Luis Comesaña (www.sitiolibre.com)...<hr />
+        </div>
+      </content>
+    </entry>
+</feed>
