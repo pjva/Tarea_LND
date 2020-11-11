@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" >
+
+<channel>
+
+<title>Noticias</title>
+<link>https://www.tiempo.es/</link>
+<description>Noticias del Tiempo</description>
+<copyright>©2020 tiempo.es</copyright>
+
+<item>
+
+<title>Noticia de Santa Cruz de Tenerife</title>
+<link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
+<description>Noticias del Tiempo de Santa Cruz de Tenerife</description>
+<pubDate>miercoles, 11 noviembre 2020</pubDate>
+<enclosure url=»https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.htmlg» type=»audio/ogg» length=»360″ />
+
+</item>
+
+</channel>
+
+</rss>
