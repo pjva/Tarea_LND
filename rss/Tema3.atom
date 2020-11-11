@@ -5,7 +5,7 @@
     
     <link rel="self" type="application/atom+xml" href="https://pjva.github.io/Tarea_LND/rss/Tema3.atom" />
     <link rel="alternate" type="text/html" title="El Tiempo" href="https://pjva.github.io/Tarea_LND/index.html" />"
-    <updated>2020-11-05T23:20:00Z</updated>
+    <updated>2020-11-11T23:20:00Z</updated>
     <author>
       
       <name>Pedro Villegas</name>
@@ -22,10 +22,10 @@
       <id>https://www.tiempo.es/</id>
       <link href="https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html" />
       
-      <updated>2020-11-05T23:20:00Z</updated>
+      <updated>2020-11-11T23:20:00Z</updated>
       <content type="xhtml" xml:lang="es">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <img src="assets/img/Tiempo.jpg" alt="logo de www.eltiempo24.es" title="Tiempo en Santa CRuz de Tenerife" width="50px" height="20px" border="1px solid #ff0000" /> <b> El tiempo 24</b>; - Descubre qué tiempo tendremos en la población de Santa Cruz de Tenerife para los próximos días...<hr />
+            <img src="assets/img/Tiempo.jpg" alt="logo de www.eltiempo24.es" title="Tiempo en Santa Cruz de Tenerife" width="50px" height="20px" border="1px solid #ff0000" /> <b> El tiempo 24</b>; - Descubre qué tiempo tendremos en la población de Santa Cruz de Tenerife para los próximos días...<hr />
         </div>
       </content>
     
